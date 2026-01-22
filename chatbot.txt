@@ -1,0 +1,2 @@
+CHATBOT CAPABILITIES- chatting, RAG, TOOLS, UI, langsmithADVANCED TOPICS- MEMORY, PERSISTENCE, HITL, RETRY(fault tolerance)
+sss s
